@@ -18,7 +18,8 @@
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><
+img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="45" src="https://qiskit.org/images/qiskit-logo.png"></code>
 
 ### 🚀 Featured Projects
@@ -51,8 +52,7 @@
 
 ### 📫 Connect With Me
 
-- [Website](https://your-website.com)
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
+- [Website](https://cocoding.ai/)
+
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=quantumphy)
