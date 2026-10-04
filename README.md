@@ -1,57 +1,180 @@
-## Hi there, I'm QuantumPhy! 👋
+# Hi, I'm Yahi 👋
 
-#### A passionate Quantum Computing enthusiast and AI and Big DATA architect and developer.
+### Founder, AI Architect & Builder
 
-**Languages and Tools:**  
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/graphql/graphql.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
-<code><img height="45" src="https://hadoop.apache.org/elephant.png" style="background-color:white; padding:3px;"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/javascript/javascript.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/typescript/typescript.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="45" src="https://qiskit.org/images/qiskit-logo.png"></code>
+I'm the founder of **[GitGhost.ai](https://gitghost.ai)**, **[Moltern.com](https://moltern.com)**, **[Switera.com](https://switera.com)** and **[Cocoding.ai](https://cocoding.ai)**.
 
-### 🚀 Featured Projects
+I build products at the intersection of **AI agents, developer tools, cloud infrastructure, SaaS platforms, distributed systems, Big Data and Quantum Computing**.
 
-- **Quantum Computing Experiments** - Python software for quantum computing experiments and simulations
-- **Generative AI Models** - Creating and optimizing generative AI systems for text, image, and code generation
-- **Big Data Architecture** - Design and implementation of scalable data processing pipelines using Hadoop ecosystem
-- **Machine Learning Research** - Deep learning projects using TensorFlow for computer vision and NLP tasks
-- **PDF Crawler (Scrapy)** - Scrapy spider to download all PDFs from a given website with URL validation
-- **Spark Notebooks** - Collection of data analysis examples using Apache Spark
-- **Quantum Algorithm Visualizations** - Interactive visualizations of quantum algorithms
+My work focuses on building systems that help developers and companies move from **idea → code → infrastructure → production** with more automation, governance and intelligence.
 
-### 📊 Github Stats
+---
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuantumPhy&theme=radical" width="400">
+## 🚀 Companies I'm Building
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://gitghost.ai">
+        <img src="./assets/gitghost-logo.png" height="55" alt="GitGhost.ai"/><br/>
+        <strong>GitGhost.ai</strong>
+      </a>
+      <br/><br/>
+      AI-native software workspace for repositories, coding agents, CI/CD, security and developer workflows.
+    </td>
+    <td align="center" width="25%">
+      <a href="https://moltern.com">
+        <img src="./assets/moltern-logo.png" height="55" alt="Moltern"/><br/>
+        <strong>Moltern</strong>
+      </a>
+      <br/><br/>
+      AI-native infrastructure and deployment platform for applications, services and enterprise workloads.
+    </td>
+    <td align="center" width="25%">
+      <a href="https://switera.com">
+        <img src="./assets/switera-logo.png" height="55" alt="Switera"/><br/>
+        <strong>Switera</strong>
+      </a>
+      <br/><br/>
+      SaaS infrastructure platform providing authentication, billing, email, search and other building blocks.
+    </td>
+    <td align="center" width="25%">
+      <a href="https://cocoding.ai">
+        <img src="./assets/cocoding-logo.png" height="55" alt="Cocoding.ai"/><br/>
+        <strong>Cocoding.ai</strong>
+      </a>
+      <br/><br/>
+      Agentic AI platform for generating, building and deploying complete software applications.
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧠 What I'm Working On
+
+- 🤖 **AI Agents & Agentic Software Engineering**
+- 🧑‍💻 **AI Coding Agents and Developer Infrastructure**
+- ☁️ **Cloud Platforms, Kubernetes & Infrastructure Automation**
+- 🛡️ **AI Governance, Security & Enterprise Software**
+- 🧩 **MCP, Tool Use & Multi-Agent Architectures**
+- 🏗️ **SaaS Infrastructure & Developer Platforms**
+- 📊 **Big Data & Distributed Systems**
+- 🧠 **Machine Learning & Generative AI**
+- ⚛️ **Quantum Computing & Quantum Algorithms**
+
+---
+
+## 🛠️ Languages & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,go,rust,js,ts,react,nextjs,nodejs,svelte,docker,kubernetes,git,github,linux,postgres,mongodb,redis,aws,gcp,azure,tensorflow,pytorch&perline=11" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=QuantumPhy&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+### Additional technologies
 
-### 🔬 Research Interests
+<p>
+  <img src="https://img.shields.io/badge/AI%20Agents-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hadoop-FFCC00?style=for-the-badge&logo=apachehadoop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" />
+</p>
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=QuantumPhy&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github"
+    height="170"
+    alt="Yahi GitHub stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumPhy&layout=compact&langs_count=10"
+    height="170"
+    alt="Most used languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=QuantumPhy"
+    alt="GitHub contribution streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QuantumPhy"
+    width="95%"
+    alt="GitHub profile summary"
+  />
+</p>
+
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=QuantumPhy&column=7&margin-w=10&no-frame=true"
+    alt="GitHub trophies"
+  />
+</p>
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=QuantumPhy"
+    width="95%"
+    alt="GitHub contribution activity"
+  />
+</p>
+
+> These statistics are generated dynamically from my GitHub account and update automatically as my activity changes.
+
+---
+
+## 🔬 Research & Technical Interests
+
+- Artificial Intelligence and Generative AI
+- AI Agents and Multi-Agent Systems
+- Software Engineering with LLMs
+- AI Infrastructure and Runtime Systems
+- Cloud & Distributed Systems
+- Kubernetes and Platform Engineering
+- Big Data Architecture
+- Machine Learning & Deep Learning
 - Quantum Computing Algorithms
-- Artificial Intelligence & Generative AI
-- Big Data & Cloud Computing Architecture
-- Machine Learning & Deep Neural Networks
 - Quantum Information Theory
 - Quantum Error Correction
-- Scientific Computing & Simulations
+- Scientific Computing
 
-### 📫 Connect With Me
+---
 
-- [Website](https://cocoding.ai/)
+## 🌐 Find Me Online
 
+<p>
+  <a href="https://gitghost.ai">
+    <img src="https://img.shields.io/badge/GitGhost.ai-000000?style=for-the-badge" />
+  </a>
+  <a href="https://moltern.com">
+    <img src="https://img.shields.io/badge/Moltern-000000?style=for-the-badge" />
+  </a>
+  <a href="https://switera.com">
+    <img src="https://img.shields.io/badge/Switera-000000?style=for-the-badge" />
+  </a>
+  <a href="https://cocoding.ai">
+    <img src="https://img.shields.io/badge/Cocoding.ai-000000?style=for-the-badge" />
+  </a>
+</p>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=quantumphy)
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=QuantumPhy&label=Profile%20Views" alt="Profile views" />
+</p>
