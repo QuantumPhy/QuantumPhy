@@ -1,154 +1,172 @@
 # Hi, I'm Yahi 👋
 
-### Founder, AI Architect & Builder
+### Founder · AI Architect · Software & Infrastructure Builder
 
-I'm the founder of **[GitGhost.ai](https://gitghost.ai)**, **[Moltern.com](https://moltern.com)**, **[Switera.com](https://switera.com)** and **[Cocoding.ai](https://cocoding.ai)**.
+I'm the founder of:
+
+- [GitGhost.ai](https://gitghost.ai)
+- [Moltern.com](https://moltern.com)
+- [Switera.com](https://switera.com)
+- [Cocoding.ai](https://cocoding.ai)
 
 I build products at the intersection of **AI agents, developer tools, cloud infrastructure, SaaS platforms, distributed systems, Big Data and Quantum Computing**.
 
-My work focuses on building systems that help developers and companies move from **idea → code → infrastructure → production** with more automation, governance and intelligence.
+My focus is on building systems that help developers and companies move from:
+
+**Idea → Code → Infrastructure → Production**
+
+with more automation, governance and intelligence.
 
 ---
 
 ## 🚀 Companies I'm Building
 
 <table>
-  <tr>
-    <td align="center" width="25%">
-      <a href="https://gitghost.ai">
-        <img src="./assets/gitghost-logo.png" height="55" alt="GitGhost.ai"/><br/>
-        <strong>GitGhost.ai</strong>
-      </a>
-      <br/><br/>
-      AI-native software workspace for repositories, coding agents, CI/CD, security and developer workflows.
-    </td>
-    <td align="center" width="25%">
-      <a href="https://moltern.com">
-        <img src="./assets/moltern-logo.png" height="55" alt="Moltern"/><br/>
-        <strong>Moltern</strong>
-      </a>
-      <br/><br/>
-      AI-native infrastructure and deployment platform for applications, services and enterprise workloads.
-    </td>
-    <td align="center" width="25%">
-      <a href="https://switera.com">
-        <img src="./assets/switera-logo.png" height="55" alt="Switera"/><br/>
-        <strong>Switera</strong>
-      </a>
-      <br/><br/>
-      SaaS infrastructure platform providing authentication, billing, email, search and other building blocks.
-    </td>
-    <td align="center" width="25%">
-      <a href="https://cocoding.ai">
-        <img src="./assets/cocoding-logo.png" height="55" alt="Cocoding.ai"/><br/>
-        <strong>Cocoding.ai</strong>
-      </a>
-      <br/><br/>
-      Agentic AI platform for generating, building and deploying complete software applications.
-    </td>
-  </tr>
+<tr>
+
+<td align="center" width="25%">
+<a href="https://gitghost.ai">
+<img src="https://www.google.com/s2/favicons?domain=gitghost.ai&sz=128" height="64" alt="GitGhost.ai"/>
+<br/>
+<strong>GitGhost.ai</strong>
+</a>
+<br/><br/>
+AI-native development platform connecting repositories, coding agents, developer workflows, governance and software delivery.
+</td>
+
+<td align="center" width="25%">
+<a href="https://moltern.com">
+<img src="https://www.google.com/s2/favicons?domain=moltern.com&sz=128" height="64" alt="Moltern"/>
+<br/>
+<strong>Moltern</strong>
+</a>
+<br/><br/>
+Cloud platform for agent-built software, applications, services, environments and production infrastructure.
+</td>
+
+<td align="center" width="25%">
+<a href="https://switera.com">
+<img src="https://www.google.com/s2/favicons?domain=switera.com&sz=128" height="64" alt="Switera"/>
+<br/>
+<strong>Switera</strong>
+</a>
+<br/><br/>
+SaaS infrastructure providing authentication, billing, email, search, realtime, webhooks and reusable platform services.
+</td>
+
+<td align="center" width="25%">
+<a href="https://cocoding.ai">
+<img src="https://www.google.com/s2/favicons?domain=cocoding.ai&sz=128" height="64" alt="Cocoding.ai"/>
+<br/>
+<strong>Cocoding.ai</strong>
+</a>
+<br/><br/>
+AI-powered platform for creating, iterating and deploying complete software and SaaS applications.
+</td>
+
+</tr>
 </table>
 
 ---
 
 ## 🧠 What I'm Working On
 
-- 🤖 **AI Agents & Agentic Software Engineering**
-- 🧑‍💻 **AI Coding Agents and Developer Infrastructure**
-- ☁️ **Cloud Platforms, Kubernetes & Infrastructure Automation**
-- 🛡️ **AI Governance, Security & Enterprise Software**
-- 🧩 **MCP, Tool Use & Multi-Agent Architectures**
-- 🏗️ **SaaS Infrastructure & Developer Platforms**
-- 📊 **Big Data & Distributed Systems**
-- 🧠 **Machine Learning & Generative AI**
-- ⚛️ **Quantum Computing & Quantum Algorithms**
+- 🤖 AI Agents & Agentic Software Engineering
+- 🧑‍💻 AI Coding Agents
+- 🛠 Developer Tools & Developer Infrastructure
+- ☁️ Cloud Platforms & Infrastructure Automation
+- ☸️ Kubernetes & Platform Engineering
+- 🛡 AI Governance & Enterprise Security
+- 🧩 MCP & Tool-Using AI Systems
+- 🤝 Multi-Agent Architectures
+- 🏗 SaaS Infrastructure
+- 📊 Big Data & Distributed Systems
+- 🧠 Machine Learning & Generative AI
+- ⚛️ Quantum Computing
 
 ---
 
 ## 🛠️ Languages & Technologies
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,go,rust,js,ts,react,nextjs,nodejs,svelte,docker,kubernetes,git,github,linux,postgres,mongodb,redis,aws,gcp,azure,tensorflow,pytorch&perline=11" />
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,go,rust,js,ts,react,nextjs,nodejs,docker,kubernetes,git,github,linux,postgres,mongodb,redis,aws,gcp,azure,tensorflow,pytorch&perline=11" />
+
 </p>
 
-### Additional technologies
+### Platforms & Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/AI%20Agents-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hadoop-FFCC00?style=for-the-badge&logo=apachehadoop&logoColor=black" />
-  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" />
+
+<img src="https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Hadoop-FFCC00?style=for-the-badge&logo=apachehadoop&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" />
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
+
+Instead of displaying artificial totals that may not include private repositories, organization work or all contribution activity, you can see my current activity directly on GitHub:
+
+### [github.com/QuantumPhy](https://github.com/QuantumPhy)
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=QuantumPhy&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github"
-    height="170"
-    alt="Yahi GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumPhy&layout=compact&langs_count=10"
-    height="170"
-    alt="Most used languages"
-  />
+
+<a href="https://github.com/QuantumPhy">
+<img
+src="https://streak-stats.demolab.com?user=QuantumPhy"
+alt="GitHub contribution activity"
+/>
+</a>
+
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=QuantumPhy"
-    alt="GitHub contribution streak"
-  />
+
+<a href="https://github.com/QuantumPhy">
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=QuantumPhy"
+width="95%"
+alt="GitHub activity graph"
+/>
+</a>
+
 </p>
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QuantumPhy"
-    width="95%"
-    alt="GitHub profile summary"
-  />
-</p>
-
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=QuantumPhy&column=7&margin-w=10&no-frame=true"
-    alt="GitHub trophies"
-  />
-</p>
-
-### 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=QuantumPhy"
-    width="95%"
-    alt="GitHub contribution activity"
-  />
-</p>
-
-> These statistics are generated dynamically from my GitHub account and update automatically as my activity changes.
+> GitHub contribution data can differ between public profile widgets and GitHub itself, especially when work involves private repositories and organizations. My GitHub profile is the source of truth for current public activity.
 
 ---
 
 ## 🔬 Research & Technical Interests
 
-- Artificial Intelligence and Generative AI
-- AI Agents and Multi-Agent Systems
+- Artificial Intelligence
+- Generative AI
+- AI Agents
+- Multi-Agent Systems
+- AI Coding Agents
 - Software Engineering with LLMs
-- AI Infrastructure and Runtime Systems
-- Cloud & Distributed Systems
-- Kubernetes and Platform Engineering
+- AI Infrastructure
+- Cloud Computing
+- Distributed Systems
+- Kubernetes
+- Platform Engineering
 - Big Data Architecture
-- Machine Learning & Deep Learning
+- Machine Learning
+- Deep Learning
 - Quantum Computing Algorithms
 - Quantum Information Theory
 - Quantum Error Correction
@@ -156,25 +174,45 @@ My work focuses on building systems that help developers and companies move from
 
 ---
 
-## 🌐 Find Me Online
+## 🌐 My Companies
 
-<p>
-  <a href="https://gitghost.ai">
-    <img src="https://img.shields.io/badge/GitGhost.ai-000000?style=for-the-badge" />
-  </a>
-  <a href="https://moltern.com">
-    <img src="https://img.shields.io/badge/Moltern-000000?style=for-the-badge" />
-  </a>
-  <a href="https://switera.com">
-    <img src="https://img.shields.io/badge/Switera-000000?style=for-the-badge" />
-  </a>
-  <a href="https://cocoding.ai">
-    <img src="https://img.shields.io/badge/Cocoding.ai-000000?style=for-the-badge" />
-  </a>
+<p align="left">
+
+<a href="https://gitghost.ai">
+<img src="https://img.shields.io/badge/GitGhost.ai-Visit-000000?style=for-the-badge" />
+</a>
+
+<a href="https://moltern.com">
+<img src="https://img.shields.io/badge/Moltern-Visit-000000?style=for-the-badge" />
+</a>
+
+<a href="https://switera.com">
+<img src="https://img.shields.io/badge/Switera-Visit-000000?style=for-the-badge" />
+</a>
+
+<a href="https://cocoding.ai">
+<img src="https://img.shields.io/badge/Cocoding.ai-Visit-000000?style=for-the-badge" />
+</a>
+
 </p>
 
 ---
 
+## 📫 Connect
+
+- GitHub: [github.com/QuantumPhy](https://github.com/QuantumPhy)
+- GitGhost: [gitghost.ai](https://gitghost.ai)
+- Moltern: [moltern.com](https://moltern.com)
+- Switera: [switera.com](https://switera.com)
+- Cocoding.ai: [cocoding.ai](https://cocoding.ai)
+
+---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=QuantumPhy&label=Profile%20Views" alt="Profile views" />
+
+<img
+src="https://komarev.com/ghpvc/?username=QuantumPhy&label=Profile%20Views&style=flat"
+alt="Profile views"
+/>
+
 </p>
